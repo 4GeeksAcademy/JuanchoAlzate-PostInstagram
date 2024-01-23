@@ -1,0 +1,72 @@
+body{
+background-color: black;
+}
+
+.Post{
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    padding: 5px;
+    margin: auto;
+}
+
+.Post-Header{
+    display: flex;
+    background-color: white;
+}
+
+.Post-Body{
+    display: flex;
+    background-color: white;
+}
+
+.Img_Html{
+    margin: 5%;
+    font-size: 50px;
+}
+
+.Html5{
+    font-size: 20px;
+    /* padding: 5px; */
+}
+
+.Setting{
+    padding: 30px;
+    padding-left: 60%;
+    margin-right: 100px;
+    font-size: 30px;
+}
+img{
+    /* width: 100%; */
+}
+
+.Heart{
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Comment{
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Send{
+    font-size: 30px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Bookmark{
+    padding: 10px;
+    padding-left: 60%;
+    margin-right: 100px;
+    font-size: 30px;
+}
+
+.Post-text{
+    text-align: justify;
+    background-color: white;
+    padding: 5px;
+}
